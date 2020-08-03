@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.div_one {
+  background-color: lightgreen;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  overflow: hidden;
+}
+
+.table_container {
+  background-color: green;
+  width: 100%;
+}
+
+.wrapper {
+  padding: 2%;
+  width: 100%;
+  background-color: orange;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+
+ol {
+  display: flex;
+  float: right;
+}
+
+.list_item {
+  color: brown;
+  margin: 30px;
+}
